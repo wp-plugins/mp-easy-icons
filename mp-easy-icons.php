@@ -3,7 +3,7 @@
 Plugin Name: MP Easy Icons
 Plugin URI: http://mintplugins.com
 Description: Choose from over 400 icons and insert into the text editor with just a click!
-Version: 1.0.0
+Version: 1.0.1
 Author: Mint Plugins
 Author URI: http://mintplugins.com
 Text Domain: mp_easy_icons
@@ -34,7 +34,7 @@ License: GPL2
 */
 // Plugin version
 if( !defined( 'MP_EASY_ICONS_VERSION' ) )
-	define( 'MP_EASY_ICONS_VERSION', '1.0.0' );
+	define( 'MP_EASY_ICONS_VERSION', '1.0.1' );
 
 // Plugin Folder URL
 if( !defined( 'MP_EASY_ICONS_PLUGIN_URL' ) )
